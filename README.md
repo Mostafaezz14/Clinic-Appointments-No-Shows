@@ -25,7 +25,7 @@ Q5: Are there relation between SMS received and no show appointments?
      Exploratory Data Analysis
      Data visualizations
 
-Tools
+### Tools
 Python, libraries: numpy, pandas, matplotlib, seaborn
 Jupyter Lab
 
